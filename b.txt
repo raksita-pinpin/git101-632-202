@@ -2,3 +2,7 @@ This is a book
 b.txt on main
 abcd
 // comment
+This is a bo0k
+b.txt on feature
+abcd
+# comment
